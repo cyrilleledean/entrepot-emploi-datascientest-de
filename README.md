@@ -2,7 +2,8 @@
 
 ## Description
 
-Projet dans le cadre de la formation Data Engineer Datascientest.com.
+Projet de fin d'études d'une [formation de Data Engineer](https://datascientest.com/formation-data-engineer), complétée avec succès, et soutenu en Aout 2024.
+
 Développement d'une application d'analyse du marché de l'emploi à partir d'une extration quotidienne des offres d'emploi de francetravail.io.
 
 ## Sources de données
