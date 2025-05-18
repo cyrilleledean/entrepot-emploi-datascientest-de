@@ -6,7 +6,7 @@ Projet de fin d'études d'une [formation de Data Engineer](https://datascientest
 
 Développement d'une application d'analyse du marché de l'emploi à partir d'une extraction quotidienne des offres d'emploi de francetravail.io.
 
-[Documentation GitHub Pages du projet](https://cyrilleledean.github.io/portfolio/projets/datascientest/introduction/)
+[Documentation GitHub Pages du projet](https://cyrilleledean.github.io/portfolio/datascientest/introduction/)
 
 ## Sources de données
 
