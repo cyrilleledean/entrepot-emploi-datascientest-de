@@ -84,4 +84,6 @@ npm install
 
 # Mise à jour des sources
 npm run sources --changed
+# Lancement
+npm run dev
 ```
